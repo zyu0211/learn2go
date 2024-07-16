@@ -1,3 +1,3 @@
 module github.com/zyu0211/learn2go
 
-go 1.21.3
+go 1.22.5
